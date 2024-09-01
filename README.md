@@ -9,6 +9,15 @@ Implementación de un API RESTful con Flask y PyMySQL
     la cual contiene el SCRIPT de la base de datos creada
    para evitar errores al ejecutar el aplicativo
    ```
+## NOTA:
+La base de datos cuenta con una contraseña
+ ```
+        host='localhost',
+        user='root',
+        password='1234',
+        database='api',
+ ```
+   
 ## Instalació de recursos Flask y PyMySQL
 
 2. Activa el entorno virtual e instalar las librerias:
