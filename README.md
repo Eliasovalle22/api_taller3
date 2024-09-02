@@ -7,8 +7,25 @@ Implementación de un API RESTful con Flask y PyMySQL
    ![image](https://github.com/user-attachments/assets/9568b931-a2e4-4fd5-bd0f-b63aa59cf70b)
 
 ## 2. Instalación de librerias Flask y PyMySQL.
-   
-## 2. INFORMACIÓN:
+   ```
+   pip install Flask, PyMySQL
+   ```
+## 3. Activación del entorno virtual:
+   ```
+    python -m venv 'nombre_del_entorno_virtual' NOTA: En este caso es: api_taller3
+    api_taller3\Scripts\activate
+   ```
+
+## 4. Ejecución para obtener el endpoint
+   Se ejecuta la aplicación para obtener la ruta de acceso del endpoint:
+   ```
+    python app.py
+   ```
+   (EJEMPLO: GET http://127.0.0.1:5000/usuarios )
+
+
+
+## 3. INFORMACIÓN:
    ```
    luego de a ver descomprimido la carpeta principal 'api_taller3'
    debemos cortar  la carpeta llamada 'bd_api_taller3.sql' y pegarla a fuera de la carpeta principal
@@ -23,15 +40,6 @@ La base de datos cuenta con una contraseña
         password='1234',
         database='api',
  ```
-   
-## Instalació de recursos Flask y PyMySQL
-
-2. Activa el entorno virtual e instalar las librerias:
-    ```
-    python -m venv 'nombre_del_entorno_virtual' NOTA: En este caso es: api_taller3
-    api_taller3\Scripts\activate  # Para Windows
-    pip install Flask, PyMySQL
-    ```
 ## Uso
 3. Creamos un archivo en el cual pondremos todo el codigo:
    ```
