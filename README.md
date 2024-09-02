@@ -23,14 +23,11 @@ Implementación de un API RESTful con Flask y PyMySQL
    ```
    (EJEMPLO: GET http://127.0.0.1:5000/usuarios )
 
+---
 
-
-## 3. INFORMACIÓN:
+## 5. Configuración de la base de datos en MySQL:
    ```
-   luego de a ver descomprimido la carpeta principal 'api_taller3'
-   debemos cortar  la carpeta llamada 'bd_api_taller3.sql' y pegarla a fuera de la carpeta principal
-   la cual contiene el SCRIPT de la base de datos creada
-   para evitar errores al ejecutar el aplicativo
+
    ```
 ## NOTA:
 La base de datos cuenta con una contraseña
@@ -45,13 +42,6 @@ La base de datos cuenta con una contraseña
    ```
     'nombre_del_archivo' NOTA: En este caso es: app.py
    ```
-## Ejecución para obtener el ENDPOINT
-4. Se ejecuta la aplicación para obtener la ruta de acceso del endpoint:
-   ```
-    python app.py
-   ```
-   Se ejecuta la ruta del endpoint (EJEMPLO: GET http://127.0.0.1:5000/usuarios )
-
 
 ## NOTA MUY IMPORTANT:
 5. Se debe tener conocimiento de como funciona la implementación de datos con POSTMAN, para que la implementaciones CRUD (Crear, Leer, Actualizar, Eliminar) se realicen con exito.
