@@ -1,12 +1,18 @@
 # API-RESTful_taller3
 Implementación de un API RESTful con Flask y PyMySQL
 
-## Descargar la carpeta comprimida:
-1. Descomprimir la carpeta principal.
+## 1. Descargar la carpeta comprimida:
+   Al descargar la carpeta, la debemos descomprimir. La cual contiene los archivos, debe quedarnos de esta manera:
+   
+   ![image](https://github.com/user-attachments/assets/9568b931-a2e4-4fd5-bd0f-b63aa59cf70b)
+
+## 2. Instalación de librerias Flask y PyMySQL.
+   
+## 2. INFORMACIÓN:
    ```
-   RECOMENDACIÓN: luego de a ver descomprimido la carpeta principal 'api_taller3'
-    debemos cortar  la carpeta llamada 'bd_api_taller3.sql' y pegarla a fuera de la carpeta principal
-    la cual contiene el SCRIPT de la base de datos creada
+   luego de a ver descomprimido la carpeta principal 'api_taller3'
+   debemos cortar  la carpeta llamada 'bd_api_taller3.sql' y pegarla a fuera de la carpeta principal
+   la cual contiene el SCRIPT de la base de datos creada
    para evitar errores al ejecutar el aplicativo
    ```
 ## NOTA:
