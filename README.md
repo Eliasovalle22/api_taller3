@@ -37,7 +37,7 @@ Implementación de un API RESTful con Flask y PyMySQL
    ```
   CRUD (Crear, Leer, Actualizar, Eliminar)
   ```
-. para insertar un registro mediante un (POST) utilizando POSTMAN
+.. para insertar un registro mediante un (POST) utilizando POSTMAN
 
 ![image](https://github.com/user-attachments/assets/1c40ef3b-978f-40d6-83b8-43974fc721d7)
    
@@ -45,12 +45,9 @@ Implementación de un API RESTful con Flask y PyMySQL
 
 ![image](https://github.com/user-attachments/assets/b0c75a65-d324-4c42-a56a-f0388e7642cb)
 
+.. Para ver todos los datos ingresados a la base de datos mediante un (GET) utilizando POSTMAN
 
-. En la base de datos muestra los datos ingresados
-
-![image](https://github.com/user-attachments/assets/1a148810-bd0b-4ad7-b546-873693f453aa)
-
-. Para ver todos los datos ingresados a la base de datos mediante un (GET) utilizando POSTMAN
+![image](https://github.com/user-attachments/assets/b42717bc-692d-49fd-9bce-25955180d060)
 
 ![image](https://github.com/user-attachments/assets/e8ed4a49-06c1-4b60-acc3-6e0f712768d8)
 
@@ -64,13 +61,28 @@ Implementación de un API RESTful con Flask y PyMySQL
 
 ![image](https://github.com/user-attachments/assets/7e281af8-8d89-4f8f-a99c-81b90e8b8ede)
 
-
 ![image](https://github.com/user-attachments/assets/7c8ecdef-cfd0-46aa-ac23-ccf3317c1849)
 
+.. Para eliminar un registro por su ID mediante un (DELETE) utilizando POSTMAN
+
+![image](https://github.com/user-attachments/assets/4f28492a-a9e5-4b10-9efb-9a621da43ead)
+
+![image](https://github.com/user-attachments/assets/ce028e23-8f00-4009-9cb3-c1acf5e1595e)
+
+---
+7. Base de datos MySQL
+
+.. Datos ingresados (users)
+
+![image](https://github.com/user-attachments/assets/cfb4b83d-5f87-4d31-a0fe-41d091d4def3)
+
+..Datos ingresados (product)
+
+![image](https://github.com/user-attachments/assets/9df41b08-6057-4e0c-9100-384174546c5d)
 
 
 ## NOTA MUY IMPORTANT:
-5. Se debe tener conocimiento de como funciona la implementación de datos con POSTMAN, para que la implementaciones CRUD (Crear, Leer, Actualizar, Eliminar) se realicen con exito.
+8. Se debe tener conocimiento de como funciona la implementación de datos con POSTMAN, para que la implementaciones CRUD (Crear, Leer, Actualizar, Eliminar) se realicen con exito.
 
 ## Si presentas inconvenientes al realizar el procedimiento por favor comunicate conmigo
   ```
