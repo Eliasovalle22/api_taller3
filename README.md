@@ -37,6 +37,37 @@ Implementación de un API RESTful con Flask y PyMySQL
    ```
   CRUD (Crear, Leer, Actualizar, Eliminar)
   ```
+. para insertar un registro mediante un (POST) utilizando POSTMAN
+
+![image](https://github.com/user-attachments/assets/1c40ef3b-978f-40d6-83b8-43974fc721d7)
+   
+![image](https://github.com/user-attachments/assets/b0b8f7ed-e53a-4f6e-85bc-946edef9b0f8)
+
+![image](https://github.com/user-attachments/assets/b0c75a65-d324-4c42-a56a-f0388e7642cb)
+
+
+. En la base de datos muestra los datos ingresados
+
+![image](https://github.com/user-attachments/assets/1a148810-bd0b-4ad7-b546-873693f453aa)
+
+. Para ver todos los datos ingresados a la base de datos mediante un (GET) utilizando POSTMAN
+
+![image](https://github.com/user-attachments/assets/e8ed4a49-06c1-4b60-acc3-6e0f712768d8)
+
+.. Obtener un registro por su ID mediante un (GET) utilizando POSTMAN
+
+![image](https://github.com/user-attachments/assets/2285b362-d1da-4083-8f9f-ccbb292a3d1b)
+
+![image](https://github.com/user-attachments/assets/4eaf89c4-e9fd-4abf-94f6-3a6693e30bc8)
+
+.. Para actualizar un registro por su ID mediante un (PUT) utilizando POSTMAN
+
+![image](https://github.com/user-attachments/assets/7e281af8-8d89-4f8f-a99c-81b90e8b8ede)
+
+
+![image](https://github.com/user-attachments/assets/7c8ecdef-cfd0-46aa-ac23-ccf3317c1849)
+
+
 
 ## NOTA MUY IMPORTANT:
 5. Se debe tener conocimiento de como funciona la implementación de datos con POSTMAN, para que la implementaciones CRUD (Crear, Leer, Actualizar, Eliminar) se realicen con exito.
